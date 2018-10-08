@@ -1,0 +1,5 @@
+De app heeft de volgende componenten nodig:
+
+- een zoekbar om fotoalbums op te zoeken.
+- een albumbibliotheek, waar de foto's in albums alfabetisch worden opgeslagen.
+- een fotoslider op de homepage waar een aantal foto's ter impressie voorbij vliegen.
